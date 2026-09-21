@@ -1,4 +1,4 @@
-import panda as pd
+import pandas as pd
 
 url = "https://raw.githubusercontent.com/quesoazucarado-ctrl/pa1-machinelearning/refs/heads/main/iris.csv"
 
